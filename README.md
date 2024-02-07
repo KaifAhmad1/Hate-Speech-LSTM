@@ -8,7 +8,7 @@ This project focuses on Hate Speech Detection and Classification utilizing **`Bi
 
 - **Entries**: **`24,783`**
 - **Columns**: **`'count', 'hate_speech', 'offensive_language', 'neither', 'class', and 'tweet'`**
-- **Class distribution**: **`0 (1,430 instances), 1 (19,190 instances), 2 (4,163 instances)`**
+- **Class distribution**: **`0 (1,430 instances) 5.76% , 1 (19,190 instances) 77.45%, 2 (4,163 instances) 16.79%`**
 - **Data types**: Numeric and text
 - **`No null values`** in the dataset; 'tweet' text converted to lowercase.
 
